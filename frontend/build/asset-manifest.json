@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/100DaysOfJava/static/css/main.8d2e68b4.css",
+    "main.js": "/100DaysOfJava/static/js/main.1b9e674b.js",
+    "static/media/github.svg": "/100DaysOfJava/static/media/github.914cb88d263c481a85cabb240d430f81.svg",
+    "static/media/arrow.svg": "/100DaysOfJava/static/media/arrow.41bf1ca23cfd14cbbb39a23a684ae248.svg",
+    "index.html": "/100DaysOfJava/index.html",
+    "static/media/star-empty.svg": "/100DaysOfJava/static/media/star-empty.fa27f8d229394f9bab73d875d959698d.svg",
+    "static/media/star-half.svg": "/100DaysOfJava/static/media/star-half.15c145551b253b4c9e7e60c3a3c90243.svg",
+    "static/media/star-full.svg": "/100DaysOfJava/static/media/star-full.683ed29f540fb46bfd11d02de8107542.svg",
+    "main.8d2e68b4.css.map": "/100DaysOfJava/static/css/main.8d2e68b4.css.map",
+    "main.1b9e674b.js.map": "/100DaysOfJava/static/js/main.1b9e674b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d2e68b4.css",
+    "static/js/main.1b9e674b.js"
+  ]
+}
